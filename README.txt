@@ -1,6 +1,6 @@
 ABOUT
 =====
-
+http://embeddedprogrammer.blogspot.com/2012/06/qserialterm-qt-based-serial-port.html
 qSerialTerm is a Qt based serial port terminal emulator.
 
 qSerialTerm can interpret the incoming serial data as:
